@@ -58,6 +58,8 @@ class ViewController: UIViewController {
         }
         
     }
+    @IBAction func performOperation(_ sender: UIButton) {
+    }
     
     private func realizarOperacaoBinaria( _ simbolo : String ){
         if( valorAcumulado != nil ){
