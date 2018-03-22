@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  calculadora
 //
-//  Created by Bruno De Castro Guaitanele on 30/11/17.
-//  Copyright © 2017 Bruno De Castro Guaitanele. All rights reserved.
+//  Created by HC5MAC10 on 22/11/17.
+//  Copyright © 2017 IESB. All rights reserved.
 //
 
 import UIKit

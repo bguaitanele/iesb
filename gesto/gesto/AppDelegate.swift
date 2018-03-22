@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  calculadora
+//  gesto
 //
-//  Created by Bruno De Castro Guaitanele on 30/11/17.
-//  Copyright © 2017 Bruno De Castro Guaitanele. All rights reserved.
+//  Created by HC2MAC13 on 07/03/18.
+//  Copyright © 2018 HC2MAC13. All rights reserved.
 //
 
 import UIKit
