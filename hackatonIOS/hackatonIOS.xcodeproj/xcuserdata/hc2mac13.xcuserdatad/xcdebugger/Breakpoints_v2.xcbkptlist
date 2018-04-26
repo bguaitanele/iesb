@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hackatonIOS/ProdutosTableViewController.swift"
+            timestampString = "545190723.601696"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ProdutosTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hackatonIOS.ProdutosTableViewController.__deallocating_deinit"
+                  moduleName = "hackatonIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hc2mac13/Documents/guaitanele/iesb/hackatonIOS/hackatonIOS/ProdutosTableViewController.swift"
+                  timestampString = "545185749.984918"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hackatonIOS.ProdutosTableViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; hackatonIOS.ProdutosTableViewController"
+                  moduleName = "hackatonIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hc2mac13/Documents/guaitanele/iesb/hackatonIOS/hackatonIOS/ProdutosTableViewController.swift"
+                  timestampString = "545185749.987233"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hackatonIOS.ProdutosTableViewController.init(style: __C.UITableViewStyle) -&gt; hackatonIOS.ProdutosTableViewController"
+                  moduleName = "hackatonIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hc2mac13/Documents/guaitanele/iesb/hackatonIOS/hackatonIOS/ProdutosTableViewController.swift"
+                  timestampString = "545185749.990008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hackatonIOS.ProdutosTableViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; hackatonIOS.ProdutosTableViewController"
+                  moduleName = "hackatonIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hc2mac13/Documents/guaitanele/iesb/hackatonIOS/hackatonIOS/ProdutosTableViewController.swift"
+                  timestampString = "545185749.9929481"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hackatonIOS.ProdutosTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; hackatonIOS.ProdutosTableViewController"
+                  moduleName = "hackatonIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hc2mac13/Documents/guaitanele/iesb/hackatonIOS/hackatonIOS/ProdutosTableViewController.swift"
+                  timestampString = "545185749.9960721"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hackatonIOS.ProdutosTableViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;hackatonIOS.ProdutosTableViewController&gt;"
+                  moduleName = "hackatonIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hc2mac13/Documents/guaitanele/iesb/hackatonIOS/hackatonIOS/ProdutosTableViewController.swift"
+                  timestampString = "545185749.998665"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hackatonIOS.ProdutosTableViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;hackatonIOS.ProdutosTableViewController&gt;"
+                  moduleName = "hackatonIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hc2mac13/Documents/guaitanele/iesb/hackatonIOS/hackatonIOS/ProdutosTableViewController.swift"
+                  timestampString = "545185750.000952"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hackatonIOS/ProdutoCadastroTableViewController.swift"
+            timestampString = "545189381.775594"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "cadastrar(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

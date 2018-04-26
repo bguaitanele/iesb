@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="HackathonLojinha" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Q3C-xi-zkb">
+                                <rect key="frame" x="8" y="56" width="359" height="30"/>
+                                <state key="normal" title="Escolher Foto"/>
+                                <connections>
+                                    <action selector="onEscolherFoto:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sTV-KY-4v8"/>
+                                </connections>
+                            </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Hxw-kh-FPM">
+                                <rect key="frame" x="18.5" y="228" width="337.5" height="211"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="Hxw-kh-FPM" secondAttribute="height" multiplier="16:10" id="gQG-Og-67d"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Q3C-xi-zkb" secondAttribute="trailing" constant="8" id="030-6F-aDs"/>
+                            <constraint firstItem="Hxw-kh-FPM" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.9" id="420-lE-gBJ"/>
+                            <constraint firstItem="Q3C-xi-zkb" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="36" id="77S-FG-DZz"/>
+                            <constraint firstItem="Q3C-xi-zkb" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="8" id="Sy6-jX-x8K"/>
+                            <constraint firstItem="Hxw-kh-FPM" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="XNW-GM-SN0"/>
+                            <constraint firstItem="Hxw-kh-FPM" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="zX9-j8-U1a"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="fotoEscolhidaImageView" destination="Hxw-kh-FPM" id="BiE-eS-SHR"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>
